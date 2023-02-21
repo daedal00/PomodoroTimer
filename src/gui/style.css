@@ -1,0 +1,20 @@
+.root {
+    -fx-background-color: #F8F8F8;
+    -fx-border-radius: 10px;
+}
+
+.timer-label {
+    -fx-font-size: 50px;
+    -fx-font-weight: bold;
+}
+
+.icon-button {
+    -fx-background-color: #4285F4;
+    -fx-text-fill: white;
+    -fx-padding: 10px;
+    -fx-border-radius: 5px;
+}
+
+.icon-button:hover {
+    -fx-background-color: #3367D6;
+}
